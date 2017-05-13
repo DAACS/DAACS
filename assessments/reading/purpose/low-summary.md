@@ -1,1 +1,0 @@
-This domain assesses your ability to identify how context and purpose shape the content and style of a text. The primary skills covered by this domain are identifying authorial point of view and purpose, understanding how considerations about audience shape what and how ideas are presented, and recognizing tone in relation to these factors.
