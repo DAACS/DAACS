@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on DAACS</title>
-    <link>/tags/conference/</link>
+    <link>https://daacs.net/v2/tags/conference/</link>
     <description>Recent content in Conference on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daacs.net/v2/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SIG Writing Conference 2018</title>
-      <link>/blog/2018/08/2018-08-30-sig-writing/</link>
+      <link>https://daacs.net/v2/blog/2018/08/2018-08-30-sig-writing/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/08/2018-08-30-sig-writing/</guid>
+      <guid>https://daacs.net/v2/blog/2018/08/2018-08-30-sig-writing/</guid>
       <description>Developing and Validating the DAACS Writing Assessment Authors: Heidi Andrade, Jason Bryer, and Robert Yagelski
 Abstract This paper describes an ongoing project in which on-demand writing is used as part of a diagnostic evaluation of newly admitted college students. The authors will present preliminary evidence of the validity and reliability of human and machine scored essays and the usefulness of the feedback provided to students on their writing and their self-regulated learning.</description>
     </item>
     
     <item>
       <title>Distance Teaching and Learning Conference</title>
-      <link>/blog/2018/08/2018-08-09-dtandl/</link>
+      <link>https://daacs.net/v2/blog/2018/08/2018-08-09-dtandl/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/08/2018-08-09-dtandl/</guid>
+      <guid>https://daacs.net/v2/blog/2018/08/2018-08-09-dtandl/</guid>
       <description>Distance Teaching and Learning Conference Although the issues of placement exams impact most less selective or open enrollment colleges, the efficacy of DAACS as an alternative to traditional placement exams was conducted at two large online distance education colleges: Excelsior College and Western Governors University. DAACS is an assessment framework that provides students with a formative view of their skills in self-regulation, reading, writing, and math. For administrators, DAACS provides valuable information to inform personalized interventions and more accurate risk modeling.</description>
     </item>
     
     <item>
       <title>League for Innovation in the Community College</title>
-      <link>/blog/2018/03/2018-03-18-league/</link>
+      <link>https://daacs.net/v2/blog/2018/03/2018-03-18-league/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/03/2018-03-18-league/</guid>
+      <guid>https://daacs.net/v2/blog/2018/03/2018-03-18-league/</guid>
       <description>Rethinking Placement Exams: Diagnostic Assessment and Achievement of College Skills Abstract This session will introduce a new open source formative assessment developed as an alternative to tradition placement exams that measures self-regulated learning, reading, mathematics, and writing. Results from a pilot study conducted at two large online institutions will be discussed.
 The Diagnostic Assessment and Achievement of College Skills (DAACS) addresses the issues with traditional placement exams and remediation programs by providing students with immediate, detailed, formative feedback.</description>
     </item>
     
     <item>
       <title>Northeast Education Research Association</title>
-      <link>/blog/2017/10/2017-10-20-nera/</link>
+      <link>https://daacs.net/v2/blog/2017/10/2017-10-20-nera/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2017/10/2017-10-20-nera/</guid>
+      <guid>https://daacs.net/v2/blog/2017/10/2017-10-20-nera/</guid>
       <description>Development Of The Large Scale Diagnostic Assessments Of College Skills Authors: Jason Bryer, Excelsior College; Fusun Sahin, American Institutes for Research; Heidi Andrade, Angela Lui, Diana Akhmedjanova, &amp;amp; David Franklin, University at Albany, SUNY
 The Diagnostic Assessment and Achievement of College Skills (DAACS) is a technology-based, no-stakes diagnostic assessment system on academic and non-academic skills, with fast, actionable feedback. Development and piloting of these assessments at two online colleges is underway.</description>
     </item>
