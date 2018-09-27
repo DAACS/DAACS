@@ -43,13 +43,13 @@
   </url>
   
   <url>
-    <loc>/v2/categories/conference/</loc>
+    <loc>/v2/tags/conference/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/v2/tags/conference/</loc>
+    <loc>/v2/categories/conference/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -65,13 +65,13 @@
   </url>
   
   <url>
-    <loc>/v2/categories/news/</loc>
+    <loc>/v2/tags/news/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/v2/tags/news/</loc>
+    <loc>/v2/categories/news/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
