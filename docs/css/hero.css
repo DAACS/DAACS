@@ -1,0 +1,41 @@
+.hero {
+    padding: 110px 0;
+    background: url("assets/pattern.png"), linear-gradient(to bottom, #54075B 0%, darken(#54075B, 15%) 100%);
+    overflow: hidden;
+
+    @include mobile {
+        padding: 40px 0;
+    }
+
+    h1 {
+        color: #fff;
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 60px;
+    }
+
+    p {
+        color: #fff;
+        font-size: 22px;
+    }
+
+    .panel {
+        margin-top: 20px;
+        background-color: rgba(255,255,255,0.8);
+
+        .panel-heading {
+            background-color: #54075B;
+            color: white;
+            font-weight: bold;
+        }
+
+        .panel-body {
+
+            button {
+                background-color: #54075B;
+                color: white;
+                font-weight: bold;
+            }
+        }
+    }
+}
