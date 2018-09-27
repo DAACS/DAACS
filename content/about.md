@@ -16,13 +16,13 @@ DAACS is a suite of technological and social support to optimize student learnin
 <div class="row">
 <div class="col-md-4">
 <h4 style="color:#660066;">Project Directors</h4>
-<b>Jason Bryer</b>, Ph.D..<br />Excelsior College<br />
-<b>Heidi Andrade</b>, Ed.D..<br />University at Albany<br />
-<b>Timothy Cleary</b>, Ph.D..<br />Rutgers University<br />
+<b>Jason Bryer</b>, Ph.D., Excelsior College<br />
+<b>Heidi Andrade</b>, Ed.D., University at Albany<br />
+<b>Timothy Cleary</b>, Ph.D., Rutgers University<br />
 <h4 style="color:#660066;">Evaluator</h4>
-<b>Amy Gurmuth</b>, Ph.D.<br /><a href="https://www.evalworks.com/" target="_new">EvalWorks</a><br />
+<b>Amy Gurmuth</b>, Ph.D., <a href="https://www.evalworks.com/" target="_new">EvalWorks</a><br />
 <h4 style="color:#660066;">Project Coordinator &amp; Data Analyst</h4>
-<b>Angela Lui</b>, M.A.<br />
+<b>Angela Lui</b>, M.A., Excelsior College
 </div>
 <div class="col-md-4">
 <h4 style="color:#660066;">Advisory Committee</h4>
