@@ -30,7 +30,7 @@ keywords = ["contact", "email", "phone"]
 </div>
 <div class="col-sm-12">
 <div class="form-group">
-<textarea name="message" placeholder="Your message" class="form-control"></textarea>
+<textarea name="message" placeholder="Your message" class="form-control" rows="7"></textarea>
 </div>
 </div>
 <div class="col-sm-12 text-center">
