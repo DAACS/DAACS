@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DAACS</title>
-    <link>/v2/tags/</link>
+    <link>https://daacs.net/v2/tags/</link>
     <description>Recent content in Tags on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/v2/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daacs.net/v2/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference</title>
-      <link>/v2/tags/conference/</link>
+      <link>https://daacs.net/v2/tags/conference/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/v2/tags/conference/</guid>
+      <guid>https://daacs.net/v2/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/v2/tags/news/</link>
+      <link>https://daacs.net/v2/tags/news/</link>
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/v2/tags/news/</guid>
+      <guid>https://daacs.net/v2/tags/news/</guid>
       <description></description>
     </item>
     
