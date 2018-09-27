@@ -10,3 +10,8 @@ shiny/MathItems/repo
 shiny/MathItems/www
 assessments/reading/source
 assessments/mathematics/items_tofix
+public-old
+themes/hugo-universal-theme/.eslintignore
+themes/hugo-universal-theme/.eslintrc.yml
+themes/hugo-universal-theme/.gitignore
+themes/hugo-universal-theme/.travis.yml
