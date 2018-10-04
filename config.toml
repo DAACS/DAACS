@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-126818698-1"
 
-publishDir = "docs/v2/"
+publishDir = "docs/"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Define the number of posts per page
