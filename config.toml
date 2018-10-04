@@ -1,4 +1,4 @@
-baseurl = "https://daacs.net/v2/"
+baseurl = "https://daacs.net/"
 title = "DAACS"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
