@@ -43,13 +43,13 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/conference/</loc>
+    <loc>https://daacs.net/tags/conference/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/conference/</loc>
+    <loc>https://daacs.net/categories/conference/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -65,13 +65,13 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/news/</loc>
+    <loc>https://daacs.net/tags/news/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/news/</loc>
+    <loc>https://daacs.net/categories/news/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
