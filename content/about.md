@@ -20,8 +20,9 @@ DAACS is a suite of technological and social support to optimize student learnin
 <b>Jason Bryer</b>, Ph.D., Excelsior College<br />
 <b>Heidi Andrade</b>, Ed.D., University at Albany<br />
 <b>Timothy Cleary</b>, Ph.D., Rutgers University<br />
-<h4 style="color:#660066;">Evaluator</h4>
+<h4 style="color:#660066;">Evaluators</h4>
 <b>Amy Gurmuth</b>, Ph.D., <a href="https://www.evalworks.com/" target="_new">EvalWorks</a><br />
+<b>Barbara Storandt</b>, M.S., <a href="https://www.altasolutionsgroup.com/" target="_new">Alta Solutions</a><br />
 <h4 style="color:#660066;">Project Coordinator &amp; Data Analyst</h4>
 <b>Angela Lui</b>, M.A., Excelsior College
 </div>
@@ -35,6 +36,7 @@ DAACS is a suite of technological and social support to optimize student learnin
 <b>Jason Levin</b>, MBA, <br/>Western Governors University<br />
 <b>Phil Winne</b>, Ph.D., <br/>Simon Fraser University<br />
 <b>Robert Yagelski</b>, Ph.D., <br/>University at Albany<br />
+<b>Ronald Dugan</b>, Ph.D., <br/>The College of Saint Rose<br />
 </div>
 <div class="col-md-4">
 <h4 style="color:#660066;">Other Personnel</h4>
@@ -42,11 +44,18 @@ DAACS is a suite of technological and social support to optimize student learnin
 <b>Diana Akhmedjanova</b>, M.Ed.<br />
 <b>David Franklin</b>, M.S.<br />
 <b>Guher Gorgun</b>, M.S.<br />
+<b>Kara Hogan</b>, Ph.D.<br />
+<b>Fusun Sahin</b>, Ph.D.<br />
+<b>
 <h5 style="color:#660066;">Rutgers</h5>
 <b>Erica Pawlo</b><br />
-<b>Bracha Schnaidman</b>, M.S.<br />
+<b>Bracha Schnaidman</b>, Psy.D.<br />
 <b>Nikki Schreihofe</b>r, M.A.<br />
 <b>Jackie Slemp</b><br />
+<b>Devora Panish</b><br />
+<b>Amanda Austin</b><br />
+<b>Jamal Waire</b><br />
+<b>Tom Gambino</b><br />
 <h5 style="color:#660066;">Excelsior College</h5>
 <b>Jeanne Mannarino</b>, M.A.<br />
 <b>Jane Weyers</b><br />
