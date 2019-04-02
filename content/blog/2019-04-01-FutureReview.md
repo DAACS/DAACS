@@ -10,7 +10,7 @@ banner = "img/Future-Review.jpg"
 
 # Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey
 
-**Authors: ** Angela M. Lui, David Franklin Jr., Diana Akhmedjanova, Guher Gorgun, Jason Bryer, Heidi L. Andrade, and Timothy Cleary
+**Authors:** Angela M. Lui, David Franklin Jr., Diana Akhmedjanova, Guher Gorgun, Jason Bryer, Heidi L. Andrade, and Timothy Cleary
 
 ## Abstract
 
