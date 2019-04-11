@@ -3,8 +3,8 @@ title = "Dr Bryer to be panelist for World Future Forum"
 date = "2019-04-24"
 publishDate = "2019-04-01"
 author = "DAACS"
-tags = ["publication"]
-categories = ["publication"]
+tags = ["conference"]
+categories = ["conference"]
 banner = "img/WorldFutureForum.jpeg"
 +++
 
