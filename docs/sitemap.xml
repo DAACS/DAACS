@@ -68,13 +68,13 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/conference/</loc>
+    <loc>https://daacs.net/tags/conference/</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/conference/</loc>
+    <loc>https://daacs.net/categories/conference/</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -90,25 +90,25 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/news/</loc>
-    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://daacs.net/tags/news/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/publication/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <loc>https://daacs.net/categories/news/</loc>
+    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://daacs.net/tags/publication/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daacs.net/categories/publication/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
