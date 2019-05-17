@@ -8,9 +8,7 @@ categories = ["award", "grant"]
 banner = "/img/partners/UAlbany.png"
 +++
 
-# Strategic Allocation of Resources (StAR)
-
-The DAACS team received a $48,500 [Strategic Allocation of Resources (StAR)](https://www.albany.edu/strategicplan/StAR.shtml) award from the [University at Albany](https://albany.edu) to implement DAACS at the University. Students enrolling beginning in 2020 will have an opportunity to complete DAACS and their results will be integrated into the onboarding process. More information from the [abstract](https://www.albany.edu/strategicplan/2019-2020-allocations/14.pdf).
+The DAACS team received a $48,500 [Strategic Allocation of Resources (StAR)](https://www.albany.edu/strategicplan/StAR.shtml) award from the [University at Albany](https://albany.edu) to implement DAACS at the University. Students enrolling beginning in 2020 will be an integral part the onboarding process. More information from the [abstract](https://www.albany.edu/strategicplan/2019-2020-allocations/14.pdf):
 
 > DAACS is a fully functioning, free, online suite of diagnostic assessments of college readiness, including reading, writing, mathematics, and self-regulated learning (https://daacs.net/). DAACS provides newly enrolled students with the information and resources needed to prepare for the academic rigors of college. Our research shows that students who use the feedback provided by DAACS are more likely to complete their first six months on time, and are more successful in earning credits. Data from DAACS also increased the accuracy of prediction of academic progress by up to 6%.
 > 
