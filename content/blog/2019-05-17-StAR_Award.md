@@ -5,7 +5,7 @@ publishDate = "2019-05-17"
 author = "DAACS"
 tags = ["award", "grant"]
 categories = ["award", "grant"]
-banner = "img/NCME_2019.jpg"
+banner = "/img/partners/UAlbany.png"
 +++
 
 # Strategic Allocation of Resources (StAR)
