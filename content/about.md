@@ -31,7 +31,7 @@ DAACS is a suite of technological and social support to optimize student learnin
 <b>Glenn Braddock</b>, Ph.D., <br/>Hartwick College<br />
 <b>Francesco Crocco</b>, Ph.D., <br/>Excelsior College<br />
 <b>Lisa Daniels</b>, Ph.D., <br/>Excelsior College<br />
-<b>Abbe Herzig</b>, Ph.D., <br/>Excelsior College<br />
+<b>Abbe Herzig</b>, Ph.D., <br/>American Mathematical Society<br />
 <b>Anastasia Kitsantas</b>, Ph.D., <br/>George Mason University<br />
 <b>Jason Levin</b>, MBA, <br/>Western Governors University<br />
 <b>Phil Winne</b>, Ph.D., <br/>Simon Fraser University<br />
