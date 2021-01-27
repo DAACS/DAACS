@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on DAACS</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Blogs on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://daacs.net/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://daacs.net/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DAACS at OLC Accelerate</title>
       <link>https://daacs.net/blog/2019/11/2019-11-20-olc_accelerate/</link>
@@ -136,7 +132,7 @@ The Diagnostic Assessment and Achievement of College Skills (DAACS) is a technol
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://daacs.net/blog/2017/08/2017-08-06-wnyt/</guid>
-      <description>Dr. Bryer Discusses DAACS on News Channel 13&amp;rsquo;s Forum 13 Program  Source: WNYT Forum 13</description>
+      <description>Dr. Bryer Discusses DAACS on News Channel 13&amp;rsquo;s Forum 13 Program Source: WNYT Forum 13</description>
     </item>
     
   </channel>

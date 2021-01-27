@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication on DAACS</title>
+    <title>publication on DAACS</title>
     <link>https://daacs.net/tags/publication/</link>
-    <description>Recent content in Publication on DAACS</description>
+    <description>Recent content in publication on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://daacs.net/tags/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://daacs.net/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey</title>
       <link>https://daacs.net/blog/2019/04/2019-04-01-futurereview/</link>

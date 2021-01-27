@@ -7,5 +7,5 @@ description: >
   provides personalized feedback about students’ strengths and weaknesses in 
   terms of key academic and self-regulated learning skills, linking them to the 
   resources to help them be successful students.</p>
-  <br /><a href="https://demo.daacs.net/dashboard" target="daacswindow" class="btn btn-primary btn-large" role="button">Take DAACS</a>
+  <br /><a href="https://my.daacs.net/dashboard" target="daacswindow" class="btn btn-primary btn-large" role="button">Take DAACS</a>
 image: "img/carousel/template-daacs.png"
