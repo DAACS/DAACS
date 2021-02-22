@@ -1,12 +1,14 @@
-+++
-title = "Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey"
-date = "2019-04-01"
-publishDate = "2019-04-01"
-author = "DAACS"
-tags = ["publication"]
-categories = ["publication"]
-banner = "img/Future-Review.jpg"
-+++
+---
+author: DAACS
+banner: img/Future-Review.jpg
+categories:
+- publication
+date: "2019-04-01"
+publishDate: "2019-04-01"
+tags:
+- publication
+title: Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey
+---
 
 # Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey
 

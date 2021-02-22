@@ -1,7 +1,10 @@
-+++
-title = "Contact"
-keywords = ["contact", "email", "phone"]
-+++
+---
+keywords:
+- contact
+- email
+- phone
+title: Contact
+---
 
 
 <div class="container" id="contact">

@@ -1,12 +1,16 @@
-+++
-title = "DAACS Receives StAR Award from University at Albany"
-date = "2019-05-17"
-publishDate = "2019-05-17"
-author = "DAACS"
-tags = ["award", "grant"]
-categories = ["award", "grant"]
-banner = "/img/partners/UAlbany.png"
-+++
+---
+author: DAACS
+banner: /img/partners/UAlbany.png
+categories:
+- award
+- grant
+date: "2019-05-17"
+publishDate: "2019-05-17"
+tags:
+- award
+- grant
+title: DAACS Receives StAR Award from University at Albany
+---
 
 The DAACS team received a $48,500 [Strategic Allocation of Resources (StAR)](https://www.albany.edu/strategicplan/StAR.shtml) award from the [University at Albany](https://albany.edu) to implement DAACS at the University. Students enrolling beginning in 2020 will be an integral part the onboarding process. More information from the [abstract](https://www.albany.edu/strategicplan/2019-2020-allocations/14.pdf):
 

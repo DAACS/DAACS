@@ -1,11 +1,13 @@
-+++
-title = "SIG Writing Conference 2018"
-date = "2018-08-30"
-author = "DAACS"
-tags = ["conference"]
-categories = ["conference"]
-banner = "img/sig-writing.png"
-+++
+---
+author: DAACS
+banner: img/sig-writing.png
+categories:
+- conference
+date: "2018-08-30"
+tags:
+- conference
+title: SIG Writing Conference 2018
+---
 
 # Developing and Validating the DAACS Writing Assessment
 

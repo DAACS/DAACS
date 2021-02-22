@@ -1,7 +1,8 @@
-+++
-title = "About"
-keywords = ["about"]
-+++
+---
+keywords:
+- about
+title: About
+---
 
 The Diagnostic Assessment and Achievement of College Skills (DAACS) is funded by the Department of Education in the Fund for the Improvement of Postsecondary Education First in the World grant program. Excelsior College, Western Governors University, University at Albany, and Rutgers University have been working in partnership to develop and research the impact of DAACS on newly enrolled college students.
 

@@ -1,7 +1,8 @@
-+++
-title = "Research"
-keywords = ["research"]
-+++
+---
+keywords:
+- research
+title: Research
+---
 
 Papers Published or In Press
 

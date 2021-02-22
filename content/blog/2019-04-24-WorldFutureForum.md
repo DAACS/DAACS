@@ -1,12 +1,14 @@
-+++
-title = "Dr Bryer to be panelist for World Future Forum"
-date = "2019-04-24"
-publishDate = "2019-04-01"
-author = "DAACS"
-tags = ["conference"]
-categories = ["conference"]
-banner = "img/WorldFutureForum.jpeg"
-+++
+---
+author: DAACS
+banner: img/WorldFutureForum.jpeg
+categories:
+- conference
+date: "2019-04-24"
+publishDate: "2019-04-01"
+tags:
+- conference
+title: Dr Bryer to be panelist for World Future Forum
+---
 
 # Future Review Panel: Approaches to Studying Student Success in Higher Education
 

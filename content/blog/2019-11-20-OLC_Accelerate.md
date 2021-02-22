@@ -1,12 +1,14 @@
-+++
-title = "DAACS at OLC Accelerate"
-date = "2019-11-20"
-publishDate = "2019-11-01"
-author = "DAACS"
-tags = ["conference"]
-categories = ["conference"]
-banner = "img/OLC_Accelerate.png"
-+++
+---
+author: DAACS
+banner: img/OLC_Accelerate.png
+categories:
+- conference
+date: "2019-11-20"
+publishDate: "2019-11-01"
+tags:
+- conference
+title: DAACS at OLC Accelerate
+---
 
 # Using Diagnostic Assessment Data to Advance Student Success: Results from the Diagnostic Assessment and Achievement of College Skills (DAACS) Project
 

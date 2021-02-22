@@ -1,12 +1,14 @@
-+++
-title = "DAACS at the Maryland Assessment Research Center Conference"
-date = "2019-11-07"
-publishDate = "2019-11-01"
-author = "DAACS"
-tags = ["conference"]
-categories = ["conference"]
-banner = "img/umd_logo.svg"
-+++
+---
+author: DAACS
+banner: img/umd_logo.svg
+categories:
+- conference
+date: "2019-11-07"
+publishDate: "2019-11-01"
+tags:
+- conference
+title: DAACS at the Maryland Assessment Research Center Conference
+---
 
 # Using Diagnostic Assessment Data to Advance Student Success: Results from the Diagnostic Assessment and Achievement of College Skills (DAACS) Project
 
