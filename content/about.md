@@ -18,7 +18,7 @@ DAACS is a suite of technological and social support to optimize student learnin
 <div class="row">
 <div class="col-md-4">
 <h4 style="color:#660066;">Project Directors</h4>
-<b>Jason Bryer</b>, Ph.D., CUNY School of Professional Study<br />
+<b>Jason Bryer</b>, Ph.D., CUNY School of Professional Studies<br />
 <b>Heidi Andrade</b>, Ed.D., University at Albany<br />
 <b>Timothy Cleary</b>, Ph.D., Rutgers University<br />
 
