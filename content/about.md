@@ -18,27 +18,43 @@ DAACS is a suite of technological and social support to optimize student learnin
 <div class="row">
 <div class="col-md-4">
 <h4 style="color:#660066;">Project Directors</h4>
-<b>Jason Bryer</b>, Ph.D., Excelsior College<br />
+<b>Jason Bryer</b>, Ph.D., CUNY School of Professional Study<br />
 <b>Heidi Andrade</b>, Ed.D., University at Albany<br />
 <b>Timothy Cleary</b>, Ph.D., Rutgers University<br />
+
+<h4 style="color:#660066;">Project Manager &amp; Data Analyst</h4>
+<b>Angela Lui</b>, Ph.D.
+
 <h4 style="color:#660066;">Evaluators</h4>
+<h5 style="color:#660066;">Current</h5>
+<b>Susanne Harnett</b>, Ph.D., <a href="https://www.metisassociates.com" target="_new">Metis Associates</a>><br />
+<h5 style="color:#660066;">Former</h5>
 <b>Amy Gurmuth</b>, Ph.D., <a href="https://www.evalworks.com/" target="_new">EvalWorks</a><br />
 <b>Barbara Storandt</b>, M.S., <a href="https://www.altasolutionsgroup.com/" target="_new">Alta Solutions</a><br />
-<h4 style="color:#660066;">Project Coordinator &amp; Data Analyst</h4>
-<b>Angela Lui</b>, M.A., Excelsior College
+
 </div>
+
 <div class="col-md-4">
 <h4 style="color:#660066;">Advisory Committee</h4>
-<b>Glenn Braddock</b>, Ph.D., <br/>Hartwick College<br />
-<b>Francesco Crocco</b>, Ph.D., <br/>Excelsior College<br />
-<b>Lisa Daniels</b>, Ph.D., <br/>Excelsior College<br />
+<h5 style="color:#660066;">Current</h5>
+<b>Virginia Clinton-Lisell</b>, Ph.D., <br/>University of North Dakota<br />
+<b>Kimberly Colvin</b>, Ph.D., <br/>University at Albany<br />
+<b>Christopher Davis</b>, Ph.D., <br/>University at Maryland Global Campus<br />
 <b>Abbe Herzig</b>, Ph.D., <br/>American Mathematical Society<br />
-<b>Anastasia Kitsantas</b>, Ph.D., <br/>George Mason University<br />
-<b>Jason Levin</b>, MBA, <br/>Western Governors University<br />
+<b>Suzanne Orrell</b>, Ph.D., <br/>SUNY Empire State College<br />
 <b>Phil Winne</b>, Ph.D., <br/>Simon Fraser University<br />
 <b>Robert Yagelski</b>, Ph.D., <br/>University at Albany<br />
+<b>Brian Yates</b>, Ph.D., <br/>American University<br />
+
+<h5 style="color:#660066;">Former</h5>
+<b>Glenn Braddock</b>, Ph.D., <br/>Siena College<br />
+<b>Francesco Crocco</b>, Ph.D., <br/>Excelsior College<br />
+<b>Lisa Daniels</b>, Ph.D., <br/>Excelsior College<br />
+<b>Anastasia Kitsantas</b>, Ph.D., <br/>George Mason University<br />
+<b>Jason Levin</b>, MBA, <br/>Western Governors University<br />
 <b>Ronald Dugan</b>, Ph.D., <br/>The College of Saint Rose<br />
 </div>
+
 <div class="col-md-4">
 <h4 style="color:#660066;">Other Personnel</h4>
 <h5 style="color:#660066;">University at Albany</h5>

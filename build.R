@@ -3,6 +3,8 @@ if(!require(blogdown)) {
 	library(blogdown)
 }
 
+options(blogdown.hugo.version = "0.54.0")
+
 # Build site
 blogdown::build_site()
 
