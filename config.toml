@@ -104,7 +104,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "admin@daacs.net"
 
-    about_us = "<p>DAACS is an open source suite of technological and social supports to optimize student learning.</p><p><a href='https://fipse.ed.gov/' target='_new'><img src='/img/FIPSElogo-bw.png' align='left' alt='FIPSE logo' width='50' border='0' hspace='10'/></a>DAACS was developed under grant <a href='https://fipse.ed.gov/grantshow.cfm?grantNumber=P116F150077' target='_new' style='color:#999999;'>#P116F150077</a> from the U.S. Department of Education. However, the contents do not necessarily represent the policy of the U.S. Department of Education, and you should not assume endorsement by the Federal Government.</p>"
+    about_us = "<p>DAACS is an open source suite of technological and social supports to optimize student learning.</p><p>DAACS was developed under grants <a href='https://fipse.ed.gov/grantshow.cfm?grantNumber=P116F150077' target='_new' style='color:#999999;'>#P116F150077</a> and <a href='https://ies.ed.gov/funding/grantsearch/details.asp?ID=4549' target='_new' style='color:#99999;'>#R305A210269</a>from the U.S. Department of Education. However, the contents do not necessarily represent the policy of the U.S. Department of Education, and you should not assume endorsement by the Federal Government.</p>"
     copyright = "This work is licensed under a <a href='https://creativecommons.org/licenses/by/4.0/' target='_new' style='color:white;'>Creative Commons Attribution 4.0 International License</a>.<br/>The DAACS software is licensed under the <a href='https://opensource.org/licenses/GPL-3.0' target='_new' style='color:white;'>GNU General Public License version 3</a>."
 
     # Format dates with Go's time formatting
@@ -112,7 +112,7 @@ paginate = 10
 
     logo = "img/DAACS_logo-small.png"
     logo_small = "img/DAACS_logo-small.png"
-    address = "<p>DAACS c/o Jason Bryer<br/>119 W 32st Street<br/>New York, NY 10001<br/><br/></p>"
+    address = "<p>DAACS c/o Jason Bryer<br/>119 W 31st Street<br/>New York, NY 10001<br/><br/></p>"
 #    latitude = "42.7054"
 #    longitude = "73.8629"
 

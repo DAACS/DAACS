@@ -15,3 +15,4 @@ themes/hugo-universal-theme/.eslintignore
 themes/hugo-universal-theme/.eslintrc.yml
 themes/hugo-universal-theme/.gitignore
 themes/hugo-universal-theme/.travis.yml
+assessments/
