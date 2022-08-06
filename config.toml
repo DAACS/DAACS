@@ -40,11 +40,11 @@ paginate = 10
     url  = "/about/"
     weight = 3
 
-#[1[menu.main]]
-#    name = "Research"
-#    identifier = "research"
-#    url  = "/research/"
-#    weight = 4
+[[menu.main]]
+    name = "Documentation"
+    identifier = "Documentation"
+    url  = "https://docs.daacs.net"
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
