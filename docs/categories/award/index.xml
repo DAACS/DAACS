@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>award on DAACS</title>
+    <title>Award on DAACS</title>
     <link>https://daacs.net/categories/award/</link>
-    <description>Recent content in award on DAACS</description>
+    <description>Recent content in Award on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://daacs.net/categories/award/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daacs.net/categories/award/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>DAACS Team Wins IES Grant to test the Efficacy of DAACS on Student Success</title>
       <link>https://daacs.net/blog/2021/07/2021-07-14-ies_grant/</link>
