@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DAACS</title>
@@ -6,11 +6,7 @@
     <description>Recent content on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://daacs.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://daacs.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DAACS at 2022 AERA</title>
       <link>https://daacs.net/blog/2022/04/2022-04-25-aera/</link>
@@ -22,7 +18,7 @@ Abstract The purpose of this study was to examine the effects and predictive pow
     </item>
     
     <item>
-      <title>DAACS Team Wins IES Grant to the Efficacy of DAACS on Student Success</title>
+      <title>DAACS Team Wins IES Grant to test the Efficacy of DAACS on Student Success</title>
       <link>https://daacs.net/blog/2021/07/2021-07-14-ies_grant/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
