@@ -129,7 +129,7 @@ DAACS assesses students in four key domains:
 
 However, DAACS is extensible so that institutions can exclude domains or include additional assessments as appropriate. **DAACS is not meant to place students nor to measure their growth.**
 
-DAACS links students to open educational resources (OERs) including the [DAACS SRL Lab](https://srl.leuridanlabs.com/), [Excelsior's Online Writing Lab](https://owl.excelsior.edu/), [Reading Comprehension Lab](https://owl.excelsior.edu/orc/), and [Math is Fun](https://www.mathsisfun.com/) deemed to be most relevant based upon the student's individual results.
+DAACS links students to open educational resources (OERs) including the [DAACS SRL Lab](https://srl.daacs.net/), [Excelsior's Online Writing Lab](https://owl.excelsior.edu/), [Reading Comprehension Lab](https://owl.excelsior.edu/orc/), and [Math is Fun](https://www.mathsisfun.com/) deemed to be most relevant based upon the student's individual results.
 
 ## How does DAACS work?
 
